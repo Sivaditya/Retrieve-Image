@@ -1,4 +1,4 @@
-Project Title
+Project Title : 
 # Reconstruction of Images from pcap file
 #Images retrieved: JPEG, PNG
 #Tools used : Wireshark, HxD Hex Editor
