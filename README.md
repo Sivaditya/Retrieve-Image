@@ -1,5 +1,5 @@
 <h3>Project Title : </h3>
-       <br>Reconstruction of JPEG and PNG Images from pcap file.</br>
+      <h3> <br><strong>Reconstruction of JPEG and PNG Images from pcap file.</br></strong></h3>
 Overview :
         To retrieve downloaded images by monitoring and capturing network traffic with the use of Wireshark and Hex Editor(HxD)
 
