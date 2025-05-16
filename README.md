@@ -48,5 +48,5 @@ Flow :</i> <br>
 <li> By using this <strong>signature</strong>, the data between the header and footer is extracted.
 <li> Now, the extracted data is pasted in HxD editor and the file is saved.
 <li> Make sure to save the file using .png file extension. Thus, png file has been successfully retrieved.
-<br>
+<br><br>
 <i>Thus, by following the above process, PNG and JPEG images can be retrieved </i>
